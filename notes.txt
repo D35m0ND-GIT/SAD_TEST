@@ -6,3 +6,4 @@ Nun hat Aaron auch sein name hinzugefügt.
 Das ist ein Kommentar, welchen ich im pycharm gemacht habe.
 Hat das jetzt geklappt?
 und jetzt?
+jetzt villeicht?
